@@ -1,0 +1,17 @@
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StudentPage.resources
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.adminPage.resources
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PasswordChange.resources
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SCoreSt.resources
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AStudentManage.resources
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ACourseManage.resources
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AStudentInfomationM.resources
+G:\课设\Project\C#\123\stu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ACourseManageX.resources
