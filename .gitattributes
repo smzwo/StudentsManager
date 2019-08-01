@@ -1,0 +1,3 @@
+   *.js linguist-language=SqlServer
+   *.css linguist-language=SqlServer
+   *.html linguist-language=SqlServer
